@@ -1,0 +1,21 @@
+File "../../data/hw6/sparse_set_tests.ml", line 22, characters 68-82:
+Error: Unbound value SparseSet.fold
+../../data/hw6/sparse_set_tests.ml failed on with:
+Traceback (most recent call last):
+  File "/home/dacosta/gitrepositories/instructor-repo/scripts/hw6.py", line 78, in processrepo
+    ,_err=error):
+  File "/home/dacosta/gitrepositories/instructor-repo/scripts/dependencies/sh/sh.py", line 394, in next
+    self.wait()
+  File "/home/dacosta/gitrepositories/instructor-repo/scripts/dependencies/sh/sh.py", line 334, in wait
+    self._handle_exit_code(self.process.wait())
+  File "/home/dacosta/gitrepositories/instructor-repo/scripts/dependencies/sh/sh.py", line 348, in _handle_exit_code
+    self.process.stderr
+sh.ErrorReturnCode_2: 
+
+  RAN: '/usr/bin/timeout 60s bash -c utop -I ../../data/hw5/ ../../data/hw6/sparse_set_tests.ml '
+
+  STDOUT:
+
+
+  STDERR:
+

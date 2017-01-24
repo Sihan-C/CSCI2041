@@ -1,0 +1,54 @@
+# Part 3, `natpairs.ml`: 
+```
+0: drop/take 89/95 where x = 12 and y = 97
+1: drop/take 30/12 where x = 54 and y = 75
+2: drop/take 75/6 where x = 34 and y = 93
+3: drop/take 28/2 where x = 45 and y = 84
+4: drop/take 17/1 where x = 22 and y = 95
+5: drop/take 83/52 where x = 64 and y = 74
+6: drop/take 6/34 where x = 35 and y = 29
+7: drop/take 10/55 where x = 96 and y = 48
+8: drop/take 48/64 where x = 31 and y = 76
+9: drop/take 35/46 where x = 38 and y = 40
+10: drop/take 6/27 where x = 7 and y = 4
+11: drop/take 57/67 where x = 7 and y = 2
+12: drop/take 94/34 where x = 45 and y = 63
+13: drop/take 86/82 where x = 29 and y = 80
+14: drop/take 1/11 where x = 8 and y = 72
+15: drop/take 74/27 where x = 91 and y = 39
+16: drop/take 50/6 where x = 87 and y = 9
+17: drop/take 35/3 where x = 20 and y = 12
+18: drop/take 22/52 where x = 71 and y = 82
+19: drop/take 52/59 where x = 13 and y = 69
+20: drop/take 98/25 where x = 66 and y = 14
+21: drop/take 43/11 where x = 47 and y = 99
+22: drop/take 35/15 where x = 29 and y = 91
+23: drop/take 26/59 where x = 39 and y = 69
+24: drop/take 14/94 where x = 55 and y = 44
+25: drop/take 19/89 where x = 68 and y = 76
+26: drop/take 66/96 where x = 97 and y = 21
+27: drop/take 9/58 where x = 95 and y = 64
+28: drop/take 76/52 where x = 23 and y = 58
+29: drop/take 56/58 where x = 19 and y = 5
+30: drop/take 95/2 where x = 8 and y = 32
+31: drop/take 58/43 where x = 38 and y = 93
+32: drop/take 42/87 where x = 39 and y = 75
+33: drop/take 34/22 where x = 80 and y = 84
+34: drop/take 48/17 where x = 83 and y = 96
+35: drop/take 33/37 where x = 3 and y = 32
+36: drop/take 2/69 where x = 70 and y = 88
+37: drop/take 4/58 where x = 17 and y = 67
+38: drop/take 44/10 where x = 96 and y = 99
+39: drop/take 71/72 where x = 46 and y = 42
+40: drop/take 33/80 where x = 34 and y = 97
+41: drop/take 64/18 where x = 54 and y = 26
+42: drop/take 13/54 where x = 7 and y = 72
+43: drop/take 57/99 where x = 78 and y = 9
+44: drop/take 3/82 where x = 96 and y = 91
+45: drop/take 73/76 where x = 72 and y = 33
+46: drop/take 68/66 where x = 97 and y = 62
+47: drop/take 84/63 where x = 6 and y = 51
+48: drop/take 80/42 where x = 72 and y = 88
+49: drop/take 72/85 where x = 19 and y = 87
+OK, passed 50 tests.
+```

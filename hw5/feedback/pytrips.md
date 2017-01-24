@@ -1,0 +1,54 @@
+# Part 3, `pytrips.ml`: 
+```
+0: drop/take 89/95
+1: drop/take 97/15
+2: drop/take 12/54
+3: drop/take 28/75
+4: drop/take 34/93
+5: drop/take 28/2
+6: drop/take 84/54
+7: drop/take 1/22
+8: drop/take 45/83
+9: drop/take 64/74
+10: drop/take 6/34
+11: drop/take 29/77
+12: drop/take 55/96
+13: drop/take 27/48
+14: drop/take 31/76
+15: drop/take 35/46
+16: drop/take 40/45
+17: drop/take 95/6
+18: drop/take 7/4
+19: drop/take 57/67
+20: drop/take 2/27
+21: drop/take 34/45
+22: drop/take 4/86
+23: drop/take 29/80
+24: drop/take 1/11
+25: drop/take 72/34
+26: drop/take 27/91
+27: drop/take 92/50
+28: drop/take 87/9
+29: drop/take 35/3
+30: drop/take 12/37
+31: drop/take 52/71
+32: drop/take 34/52
+33: drop/take 13/69
+34: drop/take 98/25
+35: drop/take 14/62
+36: drop/take 11/47
+37: drop/take 36/35
+38: drop/take 29/91
+39: drop/take 26/59
+40: drop/take 69/26
+41: drop/take 94/55
+42: drop/take 51/19
+43: drop/take 68/76
+44: drop/take 66/96
+45: drop/take 21/4
+46: drop/take 58/95
+47: drop/take 46/76
+48: drop/take 23/58
+49: drop/take 56/58
+OK, passed 50 tests.
+```

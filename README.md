@@ -1,2 +1,3 @@
-# CSCI2041
-OCaml Programming HW
+# repo-chen2436
+
+Sihan Chen

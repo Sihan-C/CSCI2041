@@ -1,0 +1,3 @@
+File "../../data/hw1/hashattack_tests.ml", line 20, characters 37-51:
+Error: Unbound value forward_search
+Did you mean foward_search?
